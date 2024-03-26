@@ -1,0 +1,6 @@
+1. https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf ssd1306 data sheet
+2. https://github.com/libopencm3/libopencm3-examples/blob/master/examples/stm32/f1/other/i2c_stts75_sensor/i2c_stts75_sensor.c 
+   libopencm3 i2c example
+3. https://libopencm3.org/docs/latest/stm32f1/html/modules.html official libopencm3 documentation
+4. https://github.com/afiskon/stm32-ssd1306/blob/master/ssd1306/ssd1306.c stm32HAL ssd1306 library
+5. STM32F1X datasheet
