@@ -4,3 +4,4 @@
 3. https://libopencm3.org/docs/latest/stm32f1/html/modules.html official libopencm3 documentation
 4. https://github.com/afiskon/stm32-ssd1306/blob/master/ssd1306/ssd1306.c stm32HAL ssd1306 library
 5. STM32F1X datasheet
+6. https://www.electrocreativity.com/post/plotting-rolling-graph-on-oled
